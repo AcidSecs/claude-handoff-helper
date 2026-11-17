@@ -14,7 +14,7 @@ Long chats cost more usage. This plugin hands a long chat over to a fresh one so
 - Claude in Chrome (to rename the new chat). If missing, the new chat gives you its name to paste as the title.
 
 ## What it runs
-One short PowerShell file, `launch_handoff.ps1`, only after you type OK. It opens a `claude://` link, waits 8 seconds, brings the Claude window forward and presses Enter. Read it before you use it; it is about 15 lines.
+One short PowerShell script, stored in the plugin as `launch_handoff.ps1.txt` so it cannot run by accident. Claude shows it to you and copies it to your Documents\ClaudeSetup\scripts folder only after you agree, and runs it only after you type OK. It opens a `claude://` link, waits 8 seconds, brings the Claude window forward and presses Enter. Read it before you use it; it is about 15 lines.
 
 ## What it sends
 Nothing leaves your PC. It does not read your chats.
