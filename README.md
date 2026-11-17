@@ -23,4 +23,5 @@ Nothing leaves your PC. It does not read your chats.
 The link cannot set the chat title, so the rename step is needed. Leave the keyboard alone for about a minute after OK. If no Claude window is found, press Enter yourself.
 
 Created by Soroosh Hedayat
+
 Designed in Collaboration by: VectorNine Systems Inc. & Acid Secs Productions Inc.
