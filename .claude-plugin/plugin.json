@@ -1,0 +1,11 @@
+{
+  "name": "vn-handoff-helper",
+  "displayName": "Handoff Helper for Claude",
+  "version": "0.1.0",
+  "description": "Hands a long Claude chat over to a fresh one: names the chat, writes a short handoff note, opens the new chat after you say OK, and the new chat renames itself and continues. Windows, Desktop Commander and Claude in Chrome.",
+  "author": { "name": "VectorNine Systems Inc. & Acid Secs Productions Inc." },
+  "homepage": "https://github.com/AcidSecs/claude-handoff-helper",
+  "repository": "https://github.com/AcidSecs/claude-handoff-helper",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["handoff", "new chat", "long chat", "usage", "continue", "rename chat"]
+}
