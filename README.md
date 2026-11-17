@@ -25,3 +25,7 @@ The link cannot set the chat title, so the rename step is needed. Leave the keyb
 Created by Soroosh Hedayat
 
 Designed in Collaboration by: VectorNine Systems Inc. & Acid Secs Productions Inc.
+
+## Data handling
+
+It writes handoff notes (a summary of your chat) to your own PC or Drive. A short script is stored as a .txt file. Claude shows it to you and copies it only after you agree, and runs it only after you type OK. Nothing is sent to the authors of this plugin. We run no server and receive no data, so nothing is retained by us. The plugin sends nothing to any outside service. Everything it makes stays on your own PC or in your own Google Drive and Claude account, and you can delete it any time.

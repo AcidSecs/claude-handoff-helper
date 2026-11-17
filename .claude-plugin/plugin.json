@@ -17,5 +17,6 @@
     "continue",
     "rename chat"
   ],
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/AcidSecs/claude-handoff-helper#data-handling"
 }
